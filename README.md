@@ -16,6 +16,6 @@ The project implementation for EEE485 course, Bilkent University.
 		- Glorot and He Initializations
 		- Cross Entropy and Mean Squared Error Losses
 		- Sigmoid and ReLU activations 
-	- ** Repeated the experiments using PCA features and compared.** 
+	- **Repeated the experiments using PCA features and compared.** 
 
 
