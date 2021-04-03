@@ -1,7 +1,7 @@
 # EEE485 Statistical Learning and Data Analysis
 The project implementation for EEE485 course, Bilkent University.
 ### Music Genre Classification using Spotify API metrics
- - [@emredonmez98](github.com/emredonmez98)
+ - @emredonmez98
  - Used [Spotify Tracks DB](https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db) dataset.
  - Removed severely underrepresented classes, and shaved the samples sizes to make the equal in size and normalized data in preprocessing. 
  - Used different features of the data since we have used a dataset with both categorical and numerical features. 
